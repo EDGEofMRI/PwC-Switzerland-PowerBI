@@ -3,7 +3,7 @@ This GitHub repository documents a Power BI job simulation undertaken at PwC Swi
 
 # Task One
 
-Before commencing, we eagerly await your input. To initiate your Power BI experience, begin by viewing the video titled 'New world. New skills. PwC's journey to drive a digital mindset' to gain inspiring insights on Digital Upskilling. Following this, watch the subsequent video featuring our Global Chairman. Upon completion, proceed to the next page and engage with the self-reflection question by inputting your response in the provided text field. No supplementary resources are necessary for this task.
+After viewing the video titled "New World, New Skills: PwC's Journey to Drive a Digital Mindset" to gain inspiring insights on Digital Upskilling, Engaged with the self-reflection question by inputting responses in the provided text field.
 
 # Task Two
 
